@@ -57,7 +57,7 @@ It combines passive OSINT (Open Source Intelligence) with active scanning techni
 ### **Quick Start**
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/your-repo/admin-panel-hunter-pro.git\](https://github.com/your-repo/admin-panel-hunter-pro.git)  
+   git clone [https://github.com/your-repo/admin-panel-hunter-pro.git](https://github.com/your-repo/admin-panel-hunter-pro.git)  
    cd admin-panel-hunter-pro
 
 2. **Install dependencies:**  
